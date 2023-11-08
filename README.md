@@ -12,3 +12,5 @@ Once you press Enter it goes to the first quiz and solves the 12 questions autom
 Once all the 10 quizzes are done, you can restart it or quit the program.
 
 If you are Using Selenium v4 then changes in the code may be required.
+
+This is only for Educational Purposes and not to be used for any other reason.
